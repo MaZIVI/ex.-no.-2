@@ -1,1 +1,1 @@
-primer za opis vo redme
+primer za opis vo readme
