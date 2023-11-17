@@ -1,1 +1,1 @@
-# ex.-no.-2
+primer za opis vo redme
